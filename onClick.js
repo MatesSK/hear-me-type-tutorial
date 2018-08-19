@@ -1,4 +1,4 @@
-var button=document.getElementById('button1');
+var button=document.getElementById('Import');
 
 button.onclick=function(){
   var thePath='C:\\Users\\Krescanko';
